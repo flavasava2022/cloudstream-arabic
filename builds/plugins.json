@@ -2,7 +2,7 @@
     {
         "name": "Web2TopCinema",
         "description": "Stream Arabic movies and series from Web2TopCinema",
-        "authors": ["hussienessam04"],
+        "authors": ["hussienessam"],
         "repositoryUrl": "https://github.com/flavasava2022/cloudstream-arabic/",
         "version": 3,
         "status": 1,
